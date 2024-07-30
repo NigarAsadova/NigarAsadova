@@ -1,7 +1,6 @@
 ## Hi there 👋
 <h1 text-align = 'center' >I am Nigar!</h1>
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="120px" height="15px" version="1.1">
- <title>Count</title>
     <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">  
             <rect id="Rectangle" fill="#55309c" x="0" y="0.5" width="15" height="15"/>
             <text id="0" font-family="Courier" font-size="14" font-weight="normal" fill="#fff">

@@ -1,6 +1,6 @@
 ## Hi there 👋
 <h1 align = 'center' >I am Nigar!</h1>
-<img align="center" src="https://visitor-badge.laobi.icu/badge?page_id=NigarAsadova.NigarAsadova" />
+![Visitor Count](https://profile-counter.glitch.me/{NigarAsadova}/count.svg)
 - 🌱 I’m currently learning **JS**.
 <!--
 **NigarAsadova/NigarAsadova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,6 +1,7 @@
 ## Hi there 👋
-<img src="https://visitor-badge.laobi.icu/badge?NigarAsadova=NigarAsadova" alt="visitor badge"/>
-- 🌱 I’m currently learning JS.
+<h1 align = 'center' >I am Nigar!</h1>
+<img align="center" src="https://visitor-badge.laobi.icu/badge?page_id=NigarAsadova.NigarAsadova" />
+- 🌱 I’m currently learning **JS**.
 <!--
 **NigarAsadova/NigarAsadova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

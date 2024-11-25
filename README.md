@@ -32,7 +32,7 @@
             </text>
       </g>
   </svg>
-- 🌱 I’m currently learning <b>JS</b>.
+- 🌱 I’m currently learning <b>TS</b>.
 <!--
 **NigarAsadova/NigarAsadova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
